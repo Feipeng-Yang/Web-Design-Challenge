@@ -1,0 +1,31 @@
+.lat_teal {
+  background: teal;
+  color: #fff;
+}
+
+.text_teal {
+  color: teal
+}
+
+.thumbnail_big {
+  float: left;
+  width: 50%; 
+  padding: 8px;
+}
+
+.thumbnail {
+  float: left;
+  padding: 10px;
+}
+
+.img_border {
+  border: 2px solid teal;
+}
+
+
+@media (max-width: 800px) {
+
+   .container-fluid {
+     background:teal;
+   }
+ }
