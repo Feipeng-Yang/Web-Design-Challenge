@@ -23,7 +23,7 @@
 }
 
 
-@media (max-width: 800px) {
+@media (max-width: 960px) {
 
    .container-fluid {
      background:teal;
